@@ -1,9 +1,4 @@
 🧠⚡ AI-Driven Electricity Forecasting
-Harnessing Deep Learning for Accurate Energy Demand Predictions
-
-Deep Learning
-PyTorch
-License
 
 🧠 AI Architecture & Training
 Deep Neural Network Design
