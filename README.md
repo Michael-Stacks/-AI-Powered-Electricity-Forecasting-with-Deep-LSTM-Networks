@@ -1,4 +1,5 @@
 🧠 AI Architecture & Training
+
 Deep Neural Network Design
 Core Model: Multi-layered LSTM with 128 hidden units and 2 recurrent layers.
 
@@ -24,6 +25,7 @@ Epochs:
 
 
 📈 Key AI Metrics
+
 Training Loss: Dropped from 0.0014 → 0.0012 (optimal learning).
 
 Validation Loss: Stabilized at ~0.0116, highlighting generalization potential.
@@ -34,6 +36,7 @@ Speed: 130–140 iterations/sec – efficient for deep networks.
 
 
 🎯 Why This Stands Out
+
 Deep Learning Focus: Explores advanced AI techniques for time-series forecasting.
 
 Scalability: Easily extendable to larger datasets or hybrid architectures (e.g., CNN-LSTM).
@@ -44,6 +47,7 @@ Real-World Impact: Directly applicable to energy companies for grid optimization
 
 
 🌟 Future AI Enhancements
+
 Attention Mechanisms: Improve focus on critical time steps.
 
 Transfer Learning: Pre-train on similar datasets.
