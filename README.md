@@ -1,5 +1,3 @@
-🧠⚡ AI-Driven Electricity Forecasting
-
 🧠 AI Architecture & Training
 Deep Neural Network Design
 Core Model: Multi-layered LSTM with 128 hidden units and 2 recurrent layers.
