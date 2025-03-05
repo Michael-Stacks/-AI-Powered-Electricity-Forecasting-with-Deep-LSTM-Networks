@@ -21,12 +21,17 @@ Epochs:
 
 50 epochs with batch size 32, achieving loss convergence.
 
+
+
 📈 Key AI Metrics
 Training Loss: Dropped from 0.0014 → 0.0012 (optimal learning).
 
 Validation Loss: Stabilized at ~0.0116, highlighting generalization potential.
 
 Speed: 130–140 iterations/sec – efficient for deep networks.
+
+
+
 
 🎯 Why This Stands Out
 Deep Learning Focus: Explores advanced AI techniques for time-series forecasting.
@@ -35,12 +40,18 @@ Scalability: Easily extendable to larger datasets or hybrid architectures (e.g.,
 
 Real-World Impact: Directly applicable to energy companies for grid optimization.
 
+
+
+
 🌟 Future AI Enhancements
 Attention Mechanisms: Improve focus on critical time steps.
 
 Transfer Learning: Pre-train on similar datasets.
 
 Hyperparameter Tuning: Bayesian optimization for better convergence.
+
+
+
 
 ![main py - 8INF406---LSTM-main - Visual Studio Code 2025-03-05 16_15_41](https://github.com/user-attachments/assets/89e581b0-6ea1-4284-a07f-cb93f411bdbc)
 
